@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "90414564870",
+    "project_id": "recyplast-d5bd2",
+    "storage_bucket": "recyplast-d5bd2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90414564870:android:cc88c1f1bccd983d6e2587",
+        "android_client_info": {
+          "package_name": "com.example.recyplast"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90414564870-91ob862dvh409d6hj92pohmor33755j9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu1vJc9Xp6B-xdGY5vpE7khgd8TFEIIMI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90414564870-91ob862dvh409d6hj92pohmor33755j9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
