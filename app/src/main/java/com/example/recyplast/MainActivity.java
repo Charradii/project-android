@@ -65,15 +65,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                             @Override
                             public void onComplete(@NonNull Task<AuthResult> task) {
                                 if (task.isSuccessful()) {
-                                    // Sign in success, update UI with the signed-in user's information
-
                                     FirebaseUser user = mAuth.getCurrentUser();
-
-                                    startActivity(new Intent(MainActivity.this, InterfaceCollector.class));
-
+                                    startActivity(new Intent(MainActivity.this, ShowLocation.class));
                                 } else {
-                                    // If sign in fails, display a message to the user.
-
                                     Toast.makeText(MainActivity.this, "Authentication failed.",
                                             Toast.LENGTH_SHORT).show();
 

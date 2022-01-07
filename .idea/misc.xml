@@ -3,11 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/asus/Documents/RecyPlast/app/src/main/res/layout/activity_interface_collector.xml" value="0.10989583333333333" />
-        <entry key="..\:/Users/asus/Documents/RecyPlast/app/src/main/res/layout/activity_interface_user.xml" value="0.10052083333333334" />
-        <entry key="..\:/Users/asus/Documents/RecyPlast/app/src/main/res/layout/activity_main.xml" value="0.18" />
-        <entry key="..\:/Users/asus/Documents/RecyPlast/app/src/main/res/layout/activity_register.xml" value="0.15" />
+        <entry key="..\:/Users/asus/Documents/RecyPlast/app/src/main/res/layout/activity_interface_collector.xml" value="0.25" />
+        <entry key="..\:/Users/asus/Documents/RecyPlast/app/src/main/res/layout/activity_interface_user.xml" value="0.22" />
+        <entry key="..\:/Users/asus/Documents/RecyPlast/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/asus/Documents/RecyPlast/app/src/main/res/layout/activity_register.xml" value="0.25" />
+        <entry key="..\:/Users/asus/Documents/RecyPlast/app/src/main/res/layout/activity_show_location.xml" value="0.15677083333333333" />
         <entry key="..\:/Users/asus/Documents/RecyPlast/app/src/main/res/layout/customlistview.xml" value="0.1" />
+        <entry key="..\:/Users/asus/Documents/RecyPlast/app/src/main/res/layout/item.xml" value="0.13240740740740742" />
       </map>
     </option>
   </component>
